@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 package ar.edu.uns.cs.ed.tdas.tdamapeo;
 
 import ar.edu.uns.cs.ed.tdas.Entry;
+=======
+package main.java.ar.edu.uns.cs.ed.tdas.tdamapeo;
+
+import main.java.ar.edu.uns.cs.ed.tdas.Entry;
+>>>>>>> amigo/main
 
 /**
  * Interface Map

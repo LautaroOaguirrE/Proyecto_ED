@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package ar.edu.uns.cs.ed.tdas;
+=======
+package main.java.ar.edu.uns.cs.ed.tdas;
+>>>>>>> amigo/main
 
 /**
  * Interfaz Entry. 

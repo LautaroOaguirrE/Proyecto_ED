@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package ar.edu.uns.cs.ed.tdas.tdapila;
+=======
+package main.java.ar.edu.uns.cs.ed.tdas.tdapila;
+>>>>>>> amigo/main
 
 /**
  * Interface Stack

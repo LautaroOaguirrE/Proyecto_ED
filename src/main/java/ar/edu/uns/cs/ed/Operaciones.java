@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package  main.java.ar.edu.uns.cs.ed;
+=======
+package main.java.ar.edu.uns.cs.ed;
+>>>>>>> amigo/main
 
 public class Operaciones {
     int operacion; // 1: CREAR_DEBATE, 2: POSTEAR

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package ar.edu.uns.cs.ed;
+=======
+package main.java.ar.edu.uns.cs.ed;
+>>>>>>> amigo/main
 
 public class Usuario {
     private String id;

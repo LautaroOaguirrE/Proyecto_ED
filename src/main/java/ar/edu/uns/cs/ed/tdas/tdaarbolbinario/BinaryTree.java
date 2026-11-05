@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 package ar.edu.uns.cs.ed.tdas.tdaarbolbinario;
 
 import ar.edu.uns.cs.ed.tdas.Position;
 import ar.edu.uns.cs.ed.tdas.tdaarbol.Tree;
+=======
+package main.java.ar.edu.uns.cs.ed.tdas.tdaarbolbinario;
+
+import main.java.ar.edu.uns.cs.ed.tdas.Position;
+import main.java.ar.edu.uns.cs.ed.tdas.tdaarbol.Tree;
+>>>>>>> amigo/main
 
 /**
  * Interface BinaryTree

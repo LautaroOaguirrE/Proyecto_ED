@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 package ar.edu.uns.cs.ed.tdas.tdaarbol;
 
 import java.util.Iterator;
 import ar.edu.uns.cs.ed.tdas.Position;
+=======
+package main.java.ar.edu.uns.cs.ed.tdas.tdaarbol;
+
+import java.util.Iterator;
+import main.java.ar.edu.uns.cs.ed.tdas.Position;
+>>>>>>> amigo/main
 
 /**
  * Interface GTTree
