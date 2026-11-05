@@ -1,20 +1,11 @@
-<<<<<<< HEAD
 package  test.java.ar.edu.uns.cs.ed;
-=======
-package main.java.ar.edu.uns.cs.ed;
->>>>>>> amigo/main
 
 import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-<<<<<<< HEAD
-import ar.edu.uns.cs.ed.tdas.tdalista.PositionList;
-import edu.uns.cs.ed.tdas.tdalista.PositionList;
-=======
 import ar.edu.uns.cs.ed.tdas.excepciones.EmptyStackException;
 import ar.edu.uns.cs.ed.tdas.tdalista.PositionList;
->>>>>>> amigo/main
 
 /**
  * Tests de MotorDeliberacion .
