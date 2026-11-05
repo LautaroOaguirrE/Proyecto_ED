@@ -1,4 +1,4 @@
-package ar.edu.uns.cs.ed;
+package main.java.ar.edu.uns.cs.ed;
 
 import main.java.ar.edu.uns.cs.ed.tdas.excepciones.InvalidPositionException;
 import main.java.ar.edu.uns.cs.ed.tdas.tdalista.PositionList;
