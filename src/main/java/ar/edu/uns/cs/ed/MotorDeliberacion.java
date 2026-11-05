@@ -3,8 +3,7 @@ package main.java.ar.edu.uns.cs.ed;
 import main.java.ar.edu.uns.cs.ed.tdas.excepciones.InvalidPositionException;
 import main.java.ar.edu.uns.cs.ed.tdas.tdalista.PositionList;
 
-//SANTA CHADD
-// SADASDSADSADSDSDASDSSADSSAS
+// UNA BANDA DE CMABIOS VAMOS A HACER 
 /**
  * Incluir los import necesarios para las clases utilizadas en el código.
  */
